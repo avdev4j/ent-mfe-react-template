@@ -1,0 +1,6 @@
+code: et-react-app
+titles:
+  en: Entando Template MFE React
+  it: Entando Template MFE React
+group: free
+customUiPath: et-widget.ftl
